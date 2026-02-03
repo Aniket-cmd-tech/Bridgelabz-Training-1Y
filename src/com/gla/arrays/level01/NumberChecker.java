@@ -4,7 +4,7 @@ public class NumberChecker {
     static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int i;
-        int a[]=new int[5];
+        int []a=new int[5];
         for(i=0;i<a.length;i++){
             a[i]=sc.nextInt();
         }
@@ -19,6 +19,7 @@ public class NumberChecker {
                 System.out.println("Negative "+a[i]);
             }else
                 System.out.println("Zero");
+
 
             if(a[0]==a[a.length-1]){
                 System.out.println("First element "+a[0]+" and last elements are equal "+a[a.length-1]);
