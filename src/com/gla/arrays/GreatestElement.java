@@ -1,7 +1,6 @@
 package com.gla.arrays;
 
-import java.util.*;
-class MaxValue1D {
+class GreatestNumber {
     static void main(String[] args) {
         int max=0;
         int []arr={3,5,7,8,1};
@@ -13,4 +12,5 @@ class MaxValue1D {
         System.out.println("MAX element of the given array:"+max);
     }
 }
+
 
