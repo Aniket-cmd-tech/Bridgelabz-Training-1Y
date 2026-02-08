@@ -1,6 +1,6 @@
 package com.gla.arrays;
 
-class GreatestNumber {
+class GreatestElement{
     static void main(String[] args) {
         int max=0;
         int []arr={3,5,7,8,1};
