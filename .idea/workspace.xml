@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37af21d3-ceff-4c40-af9d-05b337eeab55" name="Changes" comment="" />
+    <list default="true" id="37af21d3-ceff-4c40-af9d-05b337eeab55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/car.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "java-arrays",
+    "git-widget-placeholder": "workshop",
     "java.suggest.annotation.dependency": "false",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/LENOVO/OneDrive/Desktop/javaproject/src/Main.java",
