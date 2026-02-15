@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37af21d3-ceff-4c40-af9d-05b337eeab55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/BuildIn/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/BuildIn/DateComprison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/BuildIn/DateFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/BuildIn/TimeZo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/FactorialRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/GCDandLCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/GuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/MaxOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/Pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/PrimeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/ProblemStatements/TempConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/ArrayTransversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/GreatestElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/LC01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/LC1480.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/LC1920.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/LC58.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/LC867.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/arrays/TransAndPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/string/LC14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/string/LC344.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/string/StringBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/string/StringTokenizers.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/mehods/level01/SI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,33 +33,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayTransversal.executor": "Run",
-    "Application.DDA.executor": "Run",
-    "Application.GreatestNumber.executor": "Run",
-    "Application.LC1480.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MaxValue1D.executor": "Run",
-    "Application.StringTokenizers.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "methods",
-    "java.suggest.annotation.dependency": "false",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/LENOVO/OneDrive/Desktop/javaproject/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayTransversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DDA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC1480.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxValue1D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTokenizers.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;methods&quot;,
+    &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LENOVO/OneDrive/Desktop/javaproject/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Bridgelabz-Training-1Y" />
