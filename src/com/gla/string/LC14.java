@@ -14,7 +14,7 @@ public class LC14 {
                     return sb.toString();
                 } else {
                     char ch=s1.charAt(i);
-                    sb.append(ch);
+                 //   sb.append(ch);
                 }
                 i++;
             }
