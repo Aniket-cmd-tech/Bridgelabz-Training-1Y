@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37af21d3-ceff-4c40-af9d-05b337eeab55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/Inheritance/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/Inheritance/puppy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/polymorphism/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/polymorphism/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/abstraction/AbstractionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/abstraction/AbstractionPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/abstraction/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/abstraction/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/methods/methods1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/methods/car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gla/string/LC14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/string/LC14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/Inheritance/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/polymorphism/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gla/polymorphism/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -43,6 +43,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractionPractice.executor": "Run",
+    "Application.AbstractionPractice2.executor": "Run",
     "Application.ArrayTransversal.executor": "Run",
     "Application.DDA.executor": "Run",
     "Application.GreatestNumber.executor": "Run",
@@ -51,6 +53,8 @@
     "Application.MaxValue1D.executor": "Run",
     "Application.Runner.executor": "Run",
     "Application.StringTokenizers.executor": "Run",
+    "Application.mai.executor": "Run",
+    "Application.main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
