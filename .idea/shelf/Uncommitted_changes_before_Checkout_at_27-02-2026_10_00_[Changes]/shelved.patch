@@ -1,0 +1,50 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"37af21d3-ceff-4c40-af9d-05b337eeab55\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/com/gla/mehods/level01/SI.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"396haxQTfPKCJqpxR8fbYuxaw7B\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.ArrayTransversal.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.DDA.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.GreatestNumber.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.LC1480.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.MaxValue1D.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.StringTokenizers.executor&quot;: &quot;Run&quot;,\r\n    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,\r\n    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;methods&quot;,\r\n    &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LENOVO/OneDrive/Desktop/javaproject/src/Main.java&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\">\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"Bridgelabz-Training-1Y\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"Bridgelabz-Training-1Y\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"37af21d3-ceff-4c40-af9d-05b337eeab55\" name=\"Changes\" comment=\"\" />\r\n      <created>1770022495730</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1770022495730</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8375bf614366a42a354c64825c2ba29d17d85efe)
++++ b/.idea/workspace.xml	(date 1772166541379)
+@@ -5,7 +5,18 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="37af21d3-ceff-4c40-af9d-05b337eeab55" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/com/gla/mehods/level01/SI.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/BuildIn/Date.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/BuildIn/DateComprison.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/BuildIn/DateFormatting.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/BuildIn/TimeZo.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/FactorialRecursion.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/Fibonacci.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/GCDandLCM.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/GuessingGame.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/MaxOfThree.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/Pallindrome.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/PrimeChecker.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/com/gla/ProblemStatements/TempConverter.java" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -60,19 +71,6 @@
+     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+   }
+ }</component>
+-  <component name="RunManager">
+-    <configuration default="true" type="JetRunConfigurationType">
+-      <module name="Bridgelabz-Training-1Y" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+-      <module name="Bridgelabz-Training-1Y" />
+-      <option name="filePath" />
+-      <method v="2" />
+-    </configuration>
+-  </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="37af21d3-ceff-4c40-af9d-05b337eeab55" name="Changes" comment="" />
