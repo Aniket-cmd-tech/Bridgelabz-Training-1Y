@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f2acd4c6-673c-44e4-942a-e171c42f04b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/polymorphism/storyQuestions/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q1/college/faculty/faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q1/college/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q2/com/university/department/cse/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q3/ImportDemonstrations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,16 +22,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3AEoPV9YQw5yUSe7Fb65IRQ6f1s" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ImportDemonstrations.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "inheritance-polymorphism",
