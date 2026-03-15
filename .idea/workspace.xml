@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/department/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/faculty/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/student/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/books/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/members/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/transactions/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6/com/company/Main/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6/com/company/hr/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6/com/company/payroll/Payroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6B/com/school/data/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6B/com/school/main/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6B/com/school/util/Analyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q7/com/bank/util/InterestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q7/com/bank/util/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q8/com/access/one/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q8/com/access/two/Derived.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q9/com/company/analytics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q9/com/company/analytics/hr/EmployeeReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q9/com/company/analytics/sales/SalesReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
