@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
+    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/department/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/faculty/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q10/college/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/books/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/members/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/transactions/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6/com/company/Main/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6/com/company/hr/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6/com/company/payroll/Payroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6B/com/school/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6B/com/school/main/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q6B/com/school/util/Analyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q7/com/bank/util/InterestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q7/com/bank/util/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q8/com/access/one/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q8/com/access/two/Derived.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q9/com/company/analytics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q9/com/company/analytics/hr/EmployeeReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/packagesQuestions/Q9/com/company/analytics/sales/SalesReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +67,7 @@
   "keyToString": {
     "Application.Calander.executor": "Run",
     "Application.Chocolates.executor": "Run",
+    "Application.Derived.executor": "Run",
     "Application.Division.executor": "Run",
     "Application.EmployeeBonus.executor": "Run",
     "Application.EuclideanDistance.executor": "Run",
@@ -49,6 +76,7 @@
     "Application.Friends.executor": "Run",
     "Application.Handshakes.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MatrixAdvanced.executor": "Run",
     "Application.MatrixOperation.executor": "Run",
     "Application.MinMax.executor": "Run",
@@ -67,11 +95,14 @@
     "Application.UnitConverter.executor": "Run",
     "Application.UnitConvertor3.executor": "Run",
     "Application.WindChill.executor": "Run",
+    "Application.main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "inheritance-polymorphism",
+    "git-widget-placeholder": "methods",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Bridgelabz-Training-1Y",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -82,19 +113,6 @@
       <recent name="C:\Bridgelabz-Training-1Y/src" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="javaproject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="javaproject" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
@@ -104,5 +122,16 @@
       <updated>1771147677323</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/gla/packagesQuestions/Q5/Library/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
