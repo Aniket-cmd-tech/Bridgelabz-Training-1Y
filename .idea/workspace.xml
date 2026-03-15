@@ -1,89 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
+    <list default="true" id="0b4636c6-0b5f-4cda-a386-a73fcaa56d4b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="39hUDLFhYYCYVbwS4gIRrQPeZfD" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3AEoPV9YQw5yUSe7Fb65IRQ6f1s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calander.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Chocolates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Division.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeBonus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EuclideanDistance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorsProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FootBallTeamHeight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Friends.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Handshakes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrixAdvanced.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrixOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OTPGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomStats.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Rounds.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpringSeason.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentPCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentVoteChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumNatural.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumRecursive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trignometry.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trigonometry.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnitConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnitConvertor3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WindChill.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;classes-objects&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Games/java project/src/Main.java"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Bridgelabz-Training-1Y/src" />
-    </key>
-  </component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
-      <created>1771147677323</created>
+      <changelist id="0b4636c6-0b5f-4cda-a386-a73fcaa56d4b" name="Changes" comment="" />
+      <created>1772167066883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1771147677323</updated>
+      <updated>1772167066883</updated>
     </task>
     <servers />
   </component>
