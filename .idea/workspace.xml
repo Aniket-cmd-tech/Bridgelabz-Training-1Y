@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1b5b859-8401-4b4f-8a85-4d0a43762191" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Bridgelabz-Training-1Y.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/encapsulation/Q1/company/employee/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/encapsulation/Q1/company/employee/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/encapsulation/Q1/company/employee/FullTimeEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/encapsulation/Q1/company/employee/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/encapsulation/Q1/company/employee/PartTimeEmployee.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3AyedrpB7KjaCns8o3Ihf1reSxk" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,10 +45,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "encapsulation",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Bridgelabz-Training-1Y",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
