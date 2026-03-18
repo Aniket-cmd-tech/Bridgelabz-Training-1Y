@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2acd4c6-673c-44e4-942a-e171c42f04b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_27-02-2026_10_00_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_27-02-2026_10_00__Changes_1.xml" beforeDir="false" />
+    <list default="true" id="0b4636c6-0b5f-4cda-a386-a73fcaa56d4b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assisted_Problem/animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +18,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -26,33 +25,47 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="3AEoPV9YQw5yUSe7Fb65IRQ6f1s" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ImportDemonstrations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;inheritance-polymorphism&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HierarchicalInheritance.executor": "Run",
+    "Application.HybridInheritance.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.VEHICLE.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "inheritance-polymorphism",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Games/java project/src/Main.java"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="javaproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="javaproject" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2acd4c6-673c-44e4-942a-e171c42f04b6" name="Changes" comment="" />
-      <created>1772167174738</created>
+      <changelist id="0b4636c6-0b5f-4cda-a386-a73fcaa56d4b" name="Changes" comment="" />
+      <created>1772167066883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1772167174738</updated>
+      <updated>1772167066883</updated>
     </task>
     <servers />
   </component>
