@@ -1,5 +1,5 @@
 package com.gla.ExceptionHandling;
-public class Exception {
+public class exception extends Throwable {
     public static void main(String[] args){
         int a=5 ;
         int b=0 ;
