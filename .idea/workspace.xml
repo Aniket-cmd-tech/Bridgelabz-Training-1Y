@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
+    <list default="true" id="0b4636c6-0b5f-4cda-a386-a73fcaa56d4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,82 +23,39 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="39hUDLFhYYCYVbwS4gIRrQPeZfD" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="3AEoPV9YQw5yUSe7Fb65IRQ6f1s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Calander.executor": "Run",
-    "Application.Chocolates.executor": "Run",
-    "Application.Division.executor": "Run",
-    "Application.EmployeeBonus.executor": "Run",
-    "Application.EuclideanDistance.executor": "Run",
-    "Application.FactorsProgram.executor": "Run",
-    "Application.FootBallTeamHeight.executor": "Run",
-    "Application.Friends.executor": "Run",
-    "Application.Handshakes.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.MatrixAdvanced.executor": "Run",
-    "Application.MatrixOperation.executor": "Run",
-    "Application.MinMax.executor": "Run",
-    "Application.NumberCheck.executor": "Run",
-    "Application.OTPGenerator.executor": "Run",
-    "Application.RandomStats.executor": "Run",
-    "Application.Rounds.executor": "Run",
-    "Application.SimpleInterest.executor": "Run",
-    "Application.SpringSeason.executor": "Run",
-    "Application.StudentPCM.executor": "Run",
-    "Application.StudentVoteChecker.executor": "Run",
-    "Application.SumNatural.executor": "Run",
-    "Application.SumRecursive.executor": "Run",
-    "Application.Trignometry.executor": "Run",
-    "Application.Trigonometry.executor": "Run",
-    "Application.UnitConverter.executor": "Run",
-    "Application.UnitConvertor3.executor": "Run",
-    "Application.WindChill.executor": "Run",
+    "Application.CheckedException.executor": "Run",
+    "Application.CustomException.executor": "Run",
+    "Application.Finally.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultipleCatch.executor": "Run",
+    "Application.Propagation.executor": "Run",
+    "Application.ThrowThrows.executor": "Run",
+    "Application.Try.executor": "Run",
+    "Application.UncheckedException.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "exception-handling",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "onboarding.tips.debug.path": "C:/Games/java project/src/Main.java"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Bridgelabz-Training-1Y/src" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="java project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java project" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
-      <created>1771147677323</created>
+      <changelist id="0b4636c6-0b5f-4cda-a386-a73fcaa56d4b" name="Changes" comment="" />
+      <created>1772167066883</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1771147677323</updated>
+      <updated>1772167066883</updated>
     </task>
     <servers />
   </component>
