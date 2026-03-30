@@ -8,6 +8,7 @@ public class throw2 {
         System.out.println("valid Age");
     }
     static void main(String[] args) {
+
         ageChecker(100);
     }
 }
