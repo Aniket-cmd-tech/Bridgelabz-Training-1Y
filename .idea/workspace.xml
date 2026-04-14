@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37af21d3-ceff-4c40-af9d-05b337eeab55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/PQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/QueuePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/priortyQueuePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/collection/HashMapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/collection/TreeSet.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,54 +37,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbstractionPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AbstractionPractice2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayTransversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arraylist.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DDA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DownCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EHP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Explicit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreatestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Implicit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LC1480.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxValue1D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mobile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PQ2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QueuePractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTokenizers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UpCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Wrapper1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mai.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.priortyQueuePractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.throw2.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;workshop&quot;,
-    &quot;java.suggest.annotation.dependency&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Bridgelabz-Training-1Y&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/LENOVO/OneDrive/Desktop/javaproject/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractionPractice.executor": "Run",
+    "Application.AbstractionPractice2.executor": "Run",
+    "Application.ArrayTransversal.executor": "Run",
+    "Application.Arraylist.executor": "Run",
+    "Application.DDA.executor": "Run",
+    "Application.DownCasting.executor": "Run",
+    "Application.EHP.executor": "Run",
+    "Application.Exception.executor": "Run",
+    "Application.Explicit.executor": "Run",
+    "Application.Frequency.executor": "Run",
+    "Application.GreatestNumber.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.Implicit.executor": "Run",
+    "Application.LC1480.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxValue1D.executor": "Run",
+    "Application.Mobile.executor": "Run",
+    "Application.PQ2.executor": "Run",
+    "Application.QueuePractice.executor": "Run",
+    "Application.Runner.executor": "Run",
+    "Application.StringTokenizers.executor": "Run",
+    "Application.Thread3.executor": "Run",
+    "Application.UpCasting.executor": "Run",
+    "Application.Wrapper1.executor": "Run",
+    "Application.exception.executor": "Run",
+    "Application.mai.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.priortyQueuePractice.executor": "Run",
+    "Application.throw2.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "workshop",
+    "java.suggest.annotation.dependency": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Bridgelabz-Training-1Y",
+    "onboarding.tips.debug.path": "C:/Users/LENOVO/OneDrive/Desktop/javaproject/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="java project" />
