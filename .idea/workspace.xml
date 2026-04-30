@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="" />
+    <list default="true" id="44891684-e014-4bad-944f-d52b93f1660f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/CapitalWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/CensorWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/CurrencyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/ExtractEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/HexColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/IPValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/LicensePlate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/Links.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/ProgrammingLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/RepeatingWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/ReplaceMultipleSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/SSN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/regular_expression/UserNameValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +61,7 @@
     "Application.Friends.executor": "Run",
     "Application.Handshakes.executor": "Run",
     "Application.LeapYear.executor": "Run",
+    "Application.LicensePlate.executor": "Run",
     "Application.MatrixAdvanced.executor": "Run",
     "Application.MatrixOperation.executor": "Run",
     "Application.MinMax.executor": "Run",
@@ -61,15 +79,17 @@
     "Application.Trigonometry.executor": "Run",
     "Application.UnitConverter.executor": "Run",
     "Application.UnitConvertor3.executor": "Run",
+    "Application.UserNameValidation.executor": "Run",
     "Application.WindChill.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "regular-expressions",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Bridgelabz-Training-1Y",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
